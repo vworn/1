@@ -30,3 +30,7 @@ console.log("After Interest:", accountBalance);
 
 accountBalance /= 2; // Splitting amount
 console.log("After Splitting:", accountBalance);
+// Task 4: String Data Type
+let customerName = "Alice Johnson";
+let welcomeMessage = "Hello, " + customerName + "! Welcome to our store. We hope you have a great experience!";
+console.log(welcomeMessage);
