@@ -34,3 +34,13 @@ console.log("After Splitting:", accountBalance);
 let customerName = "Alice Johnson";
 let welcomeMessage = "Hello, " + customerName + "! Welcome to our store. We hope you have a great experience!";
 console.log(welcomeMessage);
+// Task 5: Boolean Data Type
+let isLoggedIn = true;
+
+//Doing a logical operation below for the isLoggedIn variable//
+if (isLoggedIn) {
+    console.log("Access granted: User is logged in.");
+} else {
+    console.log("Access denied: User is not logged in.");
+}
+//DONE//
